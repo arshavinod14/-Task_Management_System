@@ -7,7 +7,7 @@ Follow the steps below to set up and run the Task Management API locally:
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/arshavinod14/-Task_Management_System.git
+   git clone https://github.com/arshavinod14/Task_Management_System.git
    cd task_management
    ```
 
