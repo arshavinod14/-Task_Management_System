@@ -7,15 +7,15 @@ Follow the steps below to set up and run the Task Management API locally:
 1. **Clone the Repository**:
 
    ```bash
-   git clone <repository-url>
-   cd <repository-folder>
+   git clone https://github.com/arshavinod14/-Task_Management_System.git
+   cd task_management
    ```
 
 2. **Create a Virtual Environment**:
 
    ```bash
    python -m venv venv
-   source venv/bin/activate   # On Windows: venv\Scripts\activate
+   venv\Scripts\activate
    ```
 
 3. **Install Dependencies**:
